@@ -1,3 +1,5 @@
 .app-heading {
-    border: 2px solid black;
+    border: 2px solid blue;
+    width:20%;
+    height: 50%;
 }
